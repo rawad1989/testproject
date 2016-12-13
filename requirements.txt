@@ -20,7 +20,6 @@ django-mailgun==0.9.1
 django-pipeline==1.6.9
 django-recaptcha==1.1.0
 django-redis==4.6.0
-django-redis-secure==1.1.2
 django-rq==0.9.4
 django-storages==1.5.1
 django-template-email==0.1
